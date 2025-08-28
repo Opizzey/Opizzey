@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- GitHub Profile README Template -->
 
-<!--
-**Opizzey/Opizzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Dennis</h1>
+<h3 align="center">🌱 Frontend Developer in the making | ALX Learner | UI/UX Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+<p>
+  I started my journey with <b>Software Engineering</b> because I believe in the power of technology to 
+  <b>solve problems</b>, <b>inspire creativity</b>, and <b>transform ideas into impactful solutions</b>.  
+</p>
+<p>
+  I’m passionate about:
+  <ul>
