@@ -12,7 +12,7 @@
 ---
 
 ### 🔭 What I’m Working On
-- 🚀 Building **front-end projects** to strengthen my skills (HTML, CSS, JavaScript, React)  
+- 🚀 Building **front-end projects** to strengthen my skills (HTML, CSS, JavaScript, React, Taiwind)  
 - 💡 Exploring **UI/UX** principles for better digital experiences  
 - 🌍 Long-term: Contributing to **tech solutions for education & healthcare in Africa**  
 
